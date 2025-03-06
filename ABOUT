@@ -1,0 +1,107 @@
+Project Overview:
+The AI-Based Health Monitoring System is an innovative healthcare solution that integrates a custom-designed smart band, AI-driven medical assistance, IoT-based real-time monitoring, and emergency response features. Unlike other solutions, this project does not rely on third-party wearable devices but instead features a fully customized health band designed specifically for this system.
+
+The system consists of:
+
+A Proprietary Smart Health Band that continuously tracks vital signs and transmits data in real-time.
+A Mobile Application for patients and doctors to access health data, schedule consultations, and receive emergency alerts.
+An AI-Powered Chatbot that provides medical assistance and preliminary diagnosis.
+Automated Messaging & Emergency Calling Features to ensure rapid response in critical situations.
+This project stands out due to its novelty in integrating AI, IoT, and emergency communication systems within a self-contained, proprietary health monitoring platform.
+
+1. Custom Smart Health Band – Proprietary Real-Time Monitoring
+The smart health band is a completely in-house designed wearable device, utilizing ESP32-S3 WROOM as the central microcontroller. It continuously collects vital signs and transmits data to the mobile application and cloud database.
+
+Key Health Parameters Monitored:
+Heart Rate & SpO2 – MAX30102 sensor
+Body Temperature – DS18B20 sensor
+Blood Pressure Monitoring – BP Sensor
+ECG Monitoring – AD8232 sensor
+Fall Detection – MPU6050 sensor
+Urine Color Analysis – TCS3200 sensor
+Air Quality Monitoring – MQ135 sensor
+Glucose Monitoring – Continuous Glucose Monitoring (CGM) Sensor
+
+ESP32-S3 WROOM – Core of the Health Band
+Wi-Fi (2.4 GHz) & Bluetooth Connectivity for seamless data transmission.
+Edge Processing Capabilities for local health data analysis before cloud transmission.
+Low-Power Operation ensuring extended battery life for continuous monitoring.
+The smart band ensures real-time health tracking, high accuracy, and secure data transmission without dependence on any third-party wearable brands.
+
+2. Mobile Application – Centralized Healthcare Platform
+The mobile application acts as the main interface for both patients and doctors, providing a user-friendly portal for monitoring health data and managing medical consultations.
+
+Patient Portal Features
+Schedule Appointments with doctors.
+Daily Symptom Logging for tracking health trends.
+Medical History Access with past diagnoses and prescriptions.
+Virtual Consultations via video calls with doctors.
+AI Medical Chatbot for symptom-based preliminary medical advice.
+Emergency Alert System for critical health conditions.
+Doctor Portal Features
+Complete Patient Medical History including real-time vitals.
+Live Health Monitoring Dashboard for remote patient tracking.
+Urgent Health Alerts notifying doctors of emergencies.
+AI Medical Assistant for quick access to medical information.
+
+3. AI-Powered Medical Chatbot – BioGPT Integration
+An AI-driven chatbot is integrated into the mobile application to assist both patients and doctors with automated medical guidance and symptom evaluation.
+
+AI Model Overview
+Fine-Tuned BioGPT-PubMedQA-Prefix-Tuning Model for medical question-answering.
+Trained on PubMedQA Dataset, covering diseases, treatments, and medical conditions.
+Deployed via Hugging Face API for real-time AI medical responses.
+AI Chatbot Functionalities
+Provides initial prescriptions for common ailments.
+Assists doctors with medical research queries.
+Offers context-based symptom evaluation for patients.
+AI Performance Metrics
+Model	Loss	Perplexity
+BioGPT-Large	12.37	237016.3
+Fine-Tuned BioGPT	9.20	1350.9
+The chatbot significantly enhances healthcare accessibility and efficiency by offering real-time AI medical assistance.
+
+4. Messaging, Calling & Emergency Alert System
+A critical aspect of this system is its automated emergency response mechanism, utilizing ESP32-S3 WROOM and GSM 900A for real-time alerts, messaging, and calling.
+
+Emergency Alert Features
+Automated Critical Health Alerts sent via SMS when abnormal vitals are detected.
+Emergency Calling Feature that directly contacts pre-configured emergency contacts.
+Instant Messaging System allowing real-time communication between patients and doctors.
+Appointment Reminders and medication alerts through automated messages.
+Technology Stack for Communication
+ESP32-S3 WROOM – Wi-Fi/Bluetooth for data transmission.
+GSM 900A Module – SMS and calling functionality for emergency communication.
+Twilio API – Cloud-based SMS integration for real-time notifications.
+This feature ensures immediate medical intervention in life-threatening situations, significantly improving patient safety.
+
+5. Cloud Integration & Data Processing
+The ESP32-S3 WROOM transmits health data from the smart band to a MySQL database via Wi-Fi.
+The mobile app retrieves and processes patient data in real-time.
+Doctors access live patient health status, enabling remote healthcare management.
+Core Technology Stack
+Hardware
+ESP32-S3 WROOM (Main Microcontroller)
+GSM 900A Module (Calling & SMS)
+Biomedical Sensors (ECG, SpO2, Heart Rate, Temperature, etc.)
+CGM Sensor for Glucose Monitoring
+BP Sensor for Blood Pressure Monitoring
+Software & Development
+Embedded C & Python (Firmware Development)
+Android Studio (Java, XML, MySQL, PHP, Volley, OkHttp) for mobile application
+Hugging Face API (AI Chatbot Deployment)
+
+6. Novelty & Key Differentiators
+This project presents a unique approach to healthcare monitoring through its proprietary hardware, AI integration, and emergency response system.
+
+Proprietary Smart Band – Unlike other healthcare solutions, this system does not rely on third-party wearables. The custom-designed smart band ensures full control over data security, hardware optimization, and seamless integration.
+AI-Driven Medical Assistance – Integration of BioGPT for intelligent medical guidance, making healthcare more accessible and automated.
+Automated Emergency Response – Real-time health alerts, messaging, and calling ensure that patients receive immediate attention during critical situations.
+Glucose & Blood Pressure Monitoring – Continuous glucose monitoring (CGM) sensor and BP sensor allow real-time tracking of diabetes and hypertension, making the system particularly beneficial for chronic disease management.
+Telemedicine Integration – Virtual doctor-patient interactions enable remote healthcare monitoring, reducing the need for physical visits.
+Cloud-Based Health Data Storage – Centralized, real-time health monitoring ensures instant access to patient vitals and medical history.
+
+Conclusion
+The AI-Based Health Monitoring System represents a breakthrough in wearable healthcare technology, providing a self-contained, AI-powered, IoT-enabled solution for real-time patient monitoring, intelligent medical assistance, and emergency response.
+
+By integrating a proprietary smart band, AI-powered chatbot, continuous glucose monitoring, blood pressure tracking, and automated emergency alerts, this system offers a holistic and scalable approach to modern healthcare monitoring and telemedicine solutions.
