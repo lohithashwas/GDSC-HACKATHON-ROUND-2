@@ -1,0 +1,1016 @@
+Heart Rate,SpO2,Steps,Sleep,Stress Level,Calories Burnt,Blood Pressure,Health Condition
+65,96,4613,7.2,Moderate,443,114/88 mmHg,Moderate
+90,91,6993,4.1,High,509,138/74 mmHg,Unhealthy
+74,100,4855,5.3,High,372,129/79 mmHg,Stressed
+91,93,2496,4.7,High,380,121/75 mmHg,Unhealthy
+94,100,1696,7.9,Low,675,140/88 mmHg,Sedentary
+110,97,10434,7.5,Low,219,114/93 mmHg,Unhealthy
+82,93,7370,8.3,Low,676,119/92 mmHg,Moderate
+71,98,7132,7,High,639,111/86 mmHg,Stressed
+117,97,10735,7.3,High,318,136/74 mmHg,Unhealthy
+72,94,1705,6.8,Low,238,137/76 mmHg,Sedentary
+104,95,3875,8.5,Low,272,130/90 mmHg,Unhealthy
+95,90,12896,5.3,Moderate,717,117/94 mmHg,Unhealthy
+85,91,2114,7.9,Low,798,114/76 mmHg,Unhealthy
+81,97,12110,7.5,Low,457,116/91 mmHg,Healthy
+71,90,14611,5.7,Moderate,320,111/91 mmHg,Unhealthy
+60,97,9022,6,Low,302,128/73 mmHg,Moderate
+78,96,10750,6.2,High,529,110/90 mmHg,Stressed
+118,100,1346,6.2,Moderate,754,117/76 mmHg,Unhealthy
+94,97,12885,5.3,Low,617,110/91 mmHg,Moderate
+75,92,11937,6,High,584,113/72 mmHg,Unhealthy
+84,90,13584,8,High,279,116/84 mmHg,Unhealthy
+87,98,8981,5.3,Moderate,800,126/76 mmHg,Moderate
+97,100,3363,4.7,High,754,123/88 mmHg,Unhealthy
+69,93,8148,5,High,323,131/77 mmHg,Stressed
+119,95,6453,5.9,Moderate,272,132/82 mmHg,Unhealthy
+83,90,4325,5.9,Low,646,110/94 mmHg,Unhealthy
+68,90,12599,7.9,Moderate,730,125/79 mmHg,Unhealthy
+95,91,8988,7.2,Moderate,718,122/83 mmHg,Unhealthy
+90,93,7344,6.4,High,778,129/95 mmHg,Stressed
+78,94,7994,4.3,Moderate,386,116/78 mmHg,Unhealthy
+90,97,13108,6.5,Low,379,128/87 mmHg,Healthy
+88,93,6451,8.8,High,560,112/86 mmHg,Stressed
+84,96,14133,4.8,Moderate,788,131/82 mmHg,Unhealthy
+83,99,5209,8.4,Low,562,123/94 mmHg,Healthy
+71,92,11162,4.9,High,205,121/83 mmHg,Unhealthy
+105,94,2587,4.6,Low,518,130/84 mmHg,Unhealthy
+120,92,14490,8.4,Moderate,572,122/86 mmHg,Unhealthy
+93,94,7806,8.9,Low,533,119/79 mmHg,Moderate
+118,92,2680,9,Low,550,128/84 mmHg,Unhealthy
+75,98,10216,6,High,471,120/72 mmHg,Stressed
+109,95,6324,7.3,Low,732,130/79 mmHg,Unhealthy
+61,93,14308,9,High,269,138/87 mmHg,Sedentary
+85,98,9054,6.6,Low,345,118/78 mmHg,Healthy
+118,99,10691,8.3,Low,670,114/84 mmHg,Unhealthy
+70,99,5934,7.8,Low,545,126/74 mmHg,Healthy
+64,96,13345,7.8,Low,481,111/81 mmHg,Moderate
+96,98,12274,7,High,507,130/78 mmHg,Stressed
+91,95,2638,5.1,Low,648,123/84 mmHg,Sedentary
+90,94,3092,4.9,Low,388,118/79 mmHg,Unhealthy
+118,93,2733,7.9,Low,485,113/77 mmHg,Unhealthy
+109,99,2146,5.4,Moderate,335,140/72 mmHg,Unhealthy
+81,95,9783,4.1,Moderate,649,127/76 mmHg,Unhealthy
+109,91,9951,6.3,Low,359,118/95 mmHg,Unhealthy
+69,96,3060,7.3,High,514,130/91 mmHg,Stressed
+85,98,1439,7.2,Moderate,640,125/86 mmHg,Sedentary
+115,90,14240,4.9,Moderate,526,112/89 mmHg,Unhealthy
+118,97,11040,5.4,Low,283,128/93 mmHg,Unhealthy
+76,98,14482,4.2,High,492,126/84 mmHg,Unhealthy
+72,97,9771,7,High,615,119/82 mmHg,Stressed
+96,91,5953,5.5,Moderate,381,116/80 mmHg,Unhealthy
+99,92,10343,4.5,High,583,130/73 mmHg,Unhealthy
+101,96,4083,7.4,Moderate,548,115/86 mmHg,Unhealthy
+79,91,8402,8.6,Low,425,138/77 mmHg,Unhealthy
+112,98,8726,7.5,Low,517,118/93 mmHg,Unhealthy
+93,93,14836,5.3,Low,342,122/85 mmHg,Moderate
+72,93,1463,4.4,Low,490,127/81 mmHg,Unhealthy
+64,91,13780,8.4,Moderate,694,112/73 mmHg,Unhealthy
+94,92,1344,4.5,Moderate,663,139/88 mmHg,Unhealthy
+93,94,2038,5.6,Low,206,132/94 mmHg,Sedentary
+102,91,10084,6.1,Moderate,590,120/87 mmHg,Unhealthy
+107,96,1214,5.6,Low,723,128/76 mmHg,Unhealthy
+64,96,10173,7.4,Moderate,233,112/83 mmHg,Sedentary
+108,92,7743,9,Low,535,110/93 mmHg,Unhealthy
+100,95,4635,6.4,Moderate,691,114/81 mmHg,Moderate
+109,98,5579,6.5,Low,651,117/91 mmHg,Unhealthy
+77,96,9177,8.1,Moderate,550,115/81 mmHg,Healthy
+108,100,2904,4.9,High,291,124/90 mmHg,Unhealthy
+87,90,8734,6.3,Low,765,120/86 mmHg,Unhealthy
+98,98,6548,5.9,Low,575,136/84 mmHg,Moderate
+61,90,2456,8.8,Low,586,116/83 mmHg,Unhealthy
+71,95,8176,8.6,Moderate,229,118/93 mmHg,Sedentary
+82,96,10231,6.4,Moderate,288,122/76 mmHg,Sedentary
+77,93,2197,8.7,Low,290,135/81 mmHg,Sedentary
+79,99,7241,5.3,Low,245,122/85 mmHg,Sedentary
+91,92,5890,6,Moderate,430,112/86 mmHg,Unhealthy
+84,90,6438,6.4,High,629,115/79 mmHg,Unhealthy
+60,99,10368,8,Moderate,437,116/92 mmHg,Moderate
+86,94,10018,7.5,High,212,117/75 mmHg,Sedentary
+81,92,4773,7.4,Low,428,135/91 mmHg,Unhealthy
+92,100,14530,4.1,Low,212,140/82 mmHg,Unhealthy
+98,98,10187,6.9,Low,497,132/76 mmHg,Moderate
+118,98,12074,5.2,High,710,132/87 mmHg,Unhealthy
+103,99,10076,4,Moderate,359,116/82 mmHg,Unhealthy
+88,94,9401,8.4,Moderate,635,127/94 mmHg,Moderate
+113,96,6154,4.7,Low,583,123/70 mmHg,Unhealthy
+87,98,12588,6,Moderate,589,132/75 mmHg,Healthy
+109,100,13435,5.5,Low,417,139/90 mmHg,Unhealthy
+97,98,2147,6.6,Moderate,335,132/93 mmHg,Sedentary
+91,95,9608,6.4,Moderate,380,132/70 mmHg,Moderate
+69,99,13229,6.3,High,502,118/80 mmHg,Stressed
+73,100,7595,4.2,Moderate,571,118/91 mmHg,Unhealthy
+85,90,13750,4.6,Low,242,133/85 mmHg,Unhealthy
+75,94,7570,7,High,233,129/75 mmHg,Sedentary
+71,91,7098,7.5,Moderate,400,137/72 mmHg,Unhealthy
+110,95,1832,6.8,Moderate,323,113/80 mmHg,Unhealthy
+100,96,7816,7.5,Low,642,110/95 mmHg,Moderate
+71,91,8860,6.8,High,255,112/72 mmHg,Unhealthy
+101,100,14441,6.9,Low,658,133/72 mmHg,Unhealthy
+67,100,7104,7.4,Moderate,430,130/86 mmHg,Moderate
+63,100,12466,5.2,High,338,131/91 mmHg,Stressed
+106,92,2641,6.9,Moderate,399,117/78 mmHg,Unhealthy
+116,100,11111,8.6,Moderate,273,118/79 mmHg,Unhealthy
+91,96,7222,7,High,481,124/91 mmHg,Stressed
+104,98,14354,4.8,High,373,118/93 mmHg,Unhealthy
+60,91,6828,7.9,Moderate,737,114/77 mmHg,Unhealthy
+96,100,7381,6.7,Moderate,218,133/85 mmHg,Sedentary
+120,95,4298,8,Moderate,637,127/71 mmHg,Unhealthy
+88,95,11457,5.7,High,798,127/91 mmHg,Stressed
+112,91,7683,7.5,Low,351,121/93 mmHg,Unhealthy
+118,95,13836,4.6,High,776,134/89 mmHg,Unhealthy
+97,100,13607,4.9,High,614,137/80 mmHg,Unhealthy
+73,91,6944,8.1,Moderate,693,116/76 mmHg,Unhealthy
+107,94,12831,5.6,Low,516,126/87 mmHg,Unhealthy
+84,98,7999,6,Low,223,126/81 mmHg,Sedentary
+81,99,11949,8.5,High,383,120/79 mmHg,Stressed
+91,94,2314,4.4,Low,501,116/79 mmHg,Unhealthy
+76,92,11560,6.3,Low,516,126/71 mmHg,Unhealthy
+120,99,2451,8.8,Moderate,365,133/71 mmHg,Unhealthy
+75,100,1795,4,Moderate,740,116/94 mmHg,Unhealthy
+60,90,3766,7.1,High,515,122/84 mmHg,Unhealthy
+120,91,5709,4.7,High,593,126/77 mmHg,Unhealthy
+111,95,9388,6,Low,283,114/86 mmHg,Unhealthy
+100,97,10696,6.8,High,537,123/89 mmHg,Stressed
+64,98,9701,4.3,Low,427,121/83 mmHg,Unhealthy
+78,91,7167,4.8,High,503,130/87 mmHg,Unhealthy
+99,98,3047,4.2,High,491,124/87 mmHg,Unhealthy
+112,90,3940,7.3,Low,661,111/85 mmHg,Unhealthy
+110,91,1978,4.4,Low,630,116/71 mmHg,Unhealthy
+96,94,1743,6.9,High,529,136/74 mmHg,Sedentary
+77,99,5968,6.6,Low,214,113/91 mmHg,Sedentary
+120,99,4751,6.8,High,318,138/74 mmHg,Unhealthy
+95,91,5588,4.2,Moderate,517,140/74 mmHg,Unhealthy
+120,96,9828,7.7,High,303,117/78 mmHg,Unhealthy
+81,90,14899,6,Moderate,364,140/74 mmHg,Unhealthy
+98,97,14682,7,Low,670,139/81 mmHg,Moderate
+68,92,1903,5.8,Moderate,282,130/71 mmHg,Unhealthy
+91,95,5248,5,Moderate,439,138/71 mmHg,Moderate
+117,100,5261,5.6,Moderate,730,113/80 mmHg,Unhealthy
+63,96,7566,5.9,Low,572,121/84 mmHg,Moderate
+68,99,9637,6.1,Low,290,132/95 mmHg,Sedentary
+64,92,10326,6.4,Low,269,116/87 mmHg,Unhealthy
+65,98,7954,4.7,Low,295,113/88 mmHg,Unhealthy
+108,91,8914,5.9,Low,219,130/83 mmHg,Unhealthy
+76,99,12902,6.7,Low,761,134/85 mmHg,Healthy
+114,99,9529,7.1,High,336,123/84 mmHg,Unhealthy
+118,94,3022,5.1,Moderate,427,120/95 mmHg,Unhealthy
+100,92,6772,5.4,Low,225,117/94 mmHg,Unhealthy
+64,99,14057,4.1,Moderate,485,131/72 mmHg,Unhealthy
+117,92,8753,8,Moderate,331,116/92 mmHg,Unhealthy
+60,99,11274,4.6,Moderate,698,114/73 mmHg,Unhealthy
+76,95,11267,7.8,Moderate,268,133/92 mmHg,Sedentary
+91,99,3970,5.6,Low,563,136/80 mmHg,Moderate
+97,97,2961,8.6,High,345,119/70 mmHg,Sedentary
+62,95,4622,4.8,Moderate,501,116/90 mmHg,Unhealthy
+98,91,6189,8.4,Low,734,116/93 mmHg,Unhealthy
+88,99,5745,6.7,High,453,123/83 mmHg,Stressed
+65,95,13560,8,High,705,122/70 mmHg,Stressed
+91,98,2850,4.7,Low,530,112/89 mmHg,Unhealthy
+114,97,9943,4,Low,339,117/85 mmHg,Unhealthy
+110,90,12770,7.3,Low,208,122/95 mmHg,Unhealthy
+90,94,4133,6,Low,526,131/71 mmHg,Moderate
+68,96,2056,9,Low,693,128/90 mmHg,Sedentary
+115,94,11731,6.4,Low,217,130/79 mmHg,Unhealthy
+112,96,3058,7.8,Low,542,118/87 mmHg,Unhealthy
+71,98,12217,7.7,High,396,116/77 mmHg,Stressed
+89,92,1843,8.5,Moderate,286,118/91 mmHg,Unhealthy
+101,97,10481,6.6,Low,674,118/72 mmHg,Unhealthy
+103,97,7932,4.6,Low,644,135/85 mmHg,Unhealthy
+72,97,8524,5.7,Low,364,128/75 mmHg,Moderate
+116,97,2427,8.7,Moderate,754,132/91 mmHg,Unhealthy
+111,92,13304,6.8,Moderate,430,114/79 mmHg,Unhealthy
+91,100,1924,5,Moderate,492,122/70 mmHg,Sedentary
+103,92,10606,8.2,Moderate,452,126/79 mmHg,Unhealthy
+63,90,2397,5.4,High,638,134/87 mmHg,Unhealthy
+113,90,11542,7,Moderate,224,119/75 mmHg,Unhealthy
+109,100,6470,8.8,Moderate,420,128/79 mmHg,Unhealthy
+74,99,5851,5.9,High,526,132/89 mmHg,Stressed
+81,92,3348,8.6,High,265,110/92 mmHg,Unhealthy
+105,97,4968,8.3,Moderate,215,124/87 mmHg,Unhealthy
+68,91,8986,4.2,Low,573,124/91 mmHg,Unhealthy
+98,98,7664,7.8,Moderate,694,110/87 mmHg,Moderate
+110,92,4235,7.2,Moderate,682,115/85 mmHg,Unhealthy
+72,93,5117,6.5,Moderate,460,136/88 mmHg,Moderate
+80,92,14820,5.1,High,556,126/93 mmHg,Unhealthy
+119,95,3184,7.4,Low,390,125/74 mmHg,Unhealthy
+115,95,13516,8.8,High,406,118/77 mmHg,Unhealthy
+88,90,3603,4.8,High,270,125/86 mmHg,Unhealthy
+87,93,1440,8.1,High,382,128/90 mmHg,Sedentary
+63,99,3520,8.5,Moderate,698,136/75 mmHg,Moderate
+112,97,11330,7.2,High,799,130/81 mmHg,Unhealthy
+86,91,7336,7.6,Low,212,129/83 mmHg,Unhealthy
+91,93,13537,4.7,Low,383,125/90 mmHg,Unhealthy
+75,94,1289,4.3,Moderate,360,130/74 mmHg,Unhealthy
+97,91,1659,5.1,Moderate,663,128/75 mmHg,Unhealthy
+83,96,5836,6.5,Moderate,476,113/79 mmHg,Healthy
+74,94,14905,8.2,Moderate,629,137/95 mmHg,Moderate
+82,93,6485,4.8,Low,522,110/75 mmHg,Unhealthy
+65,98,8434,4.1,Low,237,132/76 mmHg,Unhealthy
+61,92,1198,4.2,Low,463,139/91 mmHg,Unhealthy
+84,98,11308,4.6,High,334,132/74 mmHg,Unhealthy
+74,93,1869,7.1,High,316,121/85 mmHg,Sedentary
+74,93,11889,7,High,778,117/82 mmHg,Stressed
+99,92,4574,6.3,Moderate,404,129/71 mmHg,Unhealthy
+95,92,7354,5.1,High,619,130/74 mmHg,Unhealthy
+117,98,2249,5.5,High,364,116/85 mmHg,Unhealthy
+66,100,2238,7.3,Low,651,120/93 mmHg,Sedentary
+72,98,10236,5.5,Low,713,112/95 mmHg,Moderate
+66,93,6906,8.9,High,647,139/94 mmHg,Stressed
+71,99,9971,5.5,High,487,127/92 mmHg,Stressed
+80,98,4646,8.7,Low,523,126/84 mmHg,Healthy
+89,90,7792,7.5,High,620,136/90 mmHg,Unhealthy
+100,95,2701,8.7,High,248,139/81 mmHg,Sedentary
+88,99,10054,8.8,High,688,114/92 mmHg,Stressed
+101,95,14876,7.3,Moderate,548,111/89 mmHg,Unhealthy
+75,96,2648,4.2,High,655,134/85 mmHg,Unhealthy
+88,92,8427,5,High,723,129/91 mmHg,Unhealthy
+113,94,4001,4.6,High,455,122/81 mmHg,Unhealthy
+117,91,7407,4.5,Low,288,110/82 mmHg,Unhealthy
+83,92,9194,4.8,Moderate,418,123/80 mmHg,Unhealthy
+95,99,14196,8.9,High,592,139/71 mmHg,Stressed
+105,95,9753,4,Moderate,657,117/79 mmHg,Unhealthy
+65,100,2063,7.9,High,395,127/92 mmHg,Sedentary
+76,92,3797,6.8,Moderate,441,111/79 mmHg,Unhealthy
+87,90,13027,4.3,Moderate,560,135/91 mmHg,Unhealthy
+96,94,10678,4.6,Low,744,133/90 mmHg,Unhealthy
+95,92,8585,8.7,High,523,140/73 mmHg,Unhealthy
+106,97,10972,7.3,Moderate,774,126/88 mmHg,Unhealthy
+93,92,3445,5,Moderate,670,126/90 mmHg,Unhealthy
+93,91,13069,5.7,Low,759,114/88 mmHg,Unhealthy
+60,97,9319,5.3,High,302,124/70 mmHg,Stressed
+109,95,4085,6.9,High,586,134/93 mmHg,Unhealthy
+86,91,11258,7.6,High,313,117/73 mmHg,Unhealthy
+90,97,13242,8.5,Moderate,323,111/87 mmHg,Healthy
+103,96,14848,7,Low,512,123/75 mmHg,Unhealthy
+90,97,11563,4.3,Low,229,127/91 mmHg,Unhealthy
+87,94,8361,5.8,Low,441,125/90 mmHg,Moderate
+78,93,1762,5.8,High,378,125/90 mmHg,Sedentary
+65,91,14413,5.9,Low,789,128/72 mmHg,Unhealthy
+66,93,5525,7.3,Low,754,128/86 mmHg,Moderate
+82,100,11461,4.9,Low,382,140/79 mmHg,Unhealthy
+93,97,4954,5.2,Low,623,138/76 mmHg,Moderate
+66,94,7955,6.8,High,481,134/85 mmHg,Stressed
+73,93,7268,4.5,Low,284,131/87 mmHg,Unhealthy
+74,99,1939,8.5,Low,379,140/80 mmHg,Sedentary
+76,92,3142,8.2,Moderate,513,140/88 mmHg,Unhealthy
+90,91,14470,5.5,Low,722,125/73 mmHg,Unhealthy
+95,91,14976,6.2,Low,338,128/90 mmHg,Unhealthy
+62,91,8125,8.6,High,781,119/73 mmHg,Unhealthy
+106,93,10508,8.9,Low,636,125/80 mmHg,Unhealthy
+79,91,7297,6.9,High,677,128/91 mmHg,Unhealthy
+80,97,13930,6.9,Low,611,138/80 mmHg,Healthy
+64,92,6743,8.9,High,314,122/84 mmHg,Unhealthy
+103,95,12837,8.7,Moderate,525,135/93 mmHg,Unhealthy
+90,90,4788,7.8,High,220,122/83 mmHg,Unhealthy
+94,99,14380,6.3,Moderate,735,140/95 mmHg,Moderate
+73,94,7245,8.8,High,531,121/75 mmHg,Stressed
+87,93,4877,5.5,Low,289,123/95 mmHg,Sedentary
+94,92,4581,8.6,High,672,128/92 mmHg,Unhealthy
+89,93,4861,7.4,Low,777,137/77 mmHg,Moderate
+114,97,7360,4.9,Low,425,117/74 mmHg,Unhealthy
+66,92,8937,7.4,Moderate,538,136/95 mmHg,Unhealthy
+73,94,2152,6.1,High,283,135/89 mmHg,Sedentary
+95,90,7765,4.9,High,678,125/82 mmHg,Unhealthy
+107,94,4294,7.6,High,301,124/83 mmHg,Unhealthy
+89,94,9114,4.8,High,623,138/90 mmHg,Unhealthy
+99,95,4970,7.4,Low,397,117/77 mmHg,Moderate
+60,93,2180,4.3,High,310,118/70 mmHg,Unhealthy
+89,94,9890,4.1,Low,280,121/77 mmHg,Unhealthy
+93,90,5036,5.5,Moderate,498,123/77 mmHg,Unhealthy
+84,97,8087,8,High,203,129/88 mmHg,Sedentary
+70,92,8436,7,Low,304,120/92 mmHg,Unhealthy
+111,91,13285,7.1,Low,256,115/71 mmHg,Unhealthy
+84,93,7262,4.6,Low,507,123/72 mmHg,Unhealthy
+74,96,11955,8,High,726,123/76 mmHg,Stressed
+92,95,5118,9,Moderate,473,126/81 mmHg,Moderate
+83,98,14662,4.1,Low,317,118/89 mmHg,Unhealthy
+108,92,8679,6.3,Moderate,752,116/72 mmHg,Unhealthy
+81,90,13574,6.9,Moderate,415,127/81 mmHg,Unhealthy
+66,100,3149,7.7,Low,675,127/90 mmHg,Moderate
+78,98,10065,7.4,High,297,111/71 mmHg,Sedentary
+72,98,4467,6.3,Moderate,545,137/87 mmHg,Healthy
+92,97,4901,7.4,Low,642,133/77 mmHg,Moderate
+66,98,6530,7.4,Moderate,514,135/71 mmHg,Moderate
+118,91,11746,4,Low,387,130/93 mmHg,Unhealthy
+74,97,10115,7.4,Low,542,126/83 mmHg,Healthy
+67,91,2692,5.9,High,612,120/94 mmHg,Unhealthy
+115,95,12027,7.9,Moderate,512,126/88 mmHg,Unhealthy
+98,100,10698,7.5,High,435,134/72 mmHg,Stressed
+111,97,9417,6.4,Moderate,697,118/89 mmHg,Unhealthy
+62,93,12731,5.4,Moderate,581,124/82 mmHg,Moderate
+61,100,1748,7.1,Low,780,134/84 mmHg,Sedentary
+81,97,8938,8.1,Low,350,116/74 mmHg,Healthy
+85,95,10866,7.6,Low,667,125/80 mmHg,Healthy
+96,98,8240,4,High,650,133/75 mmHg,Unhealthy
+118,96,3722,5.2,Low,564,110/70 mmHg,Unhealthy
+90,96,12765,8.3,High,682,139/90 mmHg,Stressed
+63,92,14893,8.3,Low,374,115/79 mmHg,Unhealthy
+74,93,5131,5.8,Moderate,758,120/77 mmHg,Moderate
+82,92,4308,9,Low,750,130/90 mmHg,Unhealthy
+62,94,12232,8.6,Low,793,131/83 mmHg,Moderate
+82,100,3244,7.2,High,569,132/71 mmHg,Stressed
+95,98,5171,6.9,Low,224,136/78 mmHg,Sedentary
+84,97,10149,5.8,High,217,138/76 mmHg,Sedentary
+105,98,9692,8.2,High,634,110/71 mmHg,Unhealthy
+113,99,4050,5.5,High,731,122/89 mmHg,Unhealthy
+80,93,9675,8.2,Moderate,487,126/83 mmHg,Moderate
+78,100,12083,4.1,High,406,120/94 mmHg,Unhealthy
+111,93,8179,4.1,Low,281,133/95 mmHg,Unhealthy
+114,94,12979,6.1,Moderate,550,130/73 mmHg,Unhealthy
+84,91,13507,7.8,Moderate,395,130/78 mmHg,Unhealthy
+67,91,10566,4.4,Low,753,127/87 mmHg,Unhealthy
+114,94,14332,8.3,Low,356,113/87 mmHg,Unhealthy
+105,93,5123,7,High,662,117/87 mmHg,Unhealthy
+75,98,1918,4.7,Low,213,133/73 mmHg,Unhealthy
+113,93,5291,8.2,Low,690,113/87 mmHg,Unhealthy
+76,95,7526,6.2,Low,758,129/82 mmHg,Healthy
+101,95,13700,4.2,Low,279,139/79 mmHg,Unhealthy
+75,98,8332,8,Low,593,135/89 mmHg,Healthy
+71,92,5666,6.4,Low,744,127/72 mmHg,Unhealthy
+86,90,3307,7.2,High,732,135/89 mmHg,Unhealthy
+118,94,11554,4.5,High,540,133/88 mmHg,Unhealthy
+89,95,8047,4.6,Moderate,460,138/86 mmHg,Unhealthy
+91,92,10108,5.8,Moderate,361,131/80 mmHg,Unhealthy
+67,96,13767,5,Low,256,128/76 mmHg,Sedentary
+118,97,5782,5.6,High,335,118/88 mmHg,Unhealthy
+70,100,9597,7.2,Low,706,113/83 mmHg,Healthy
+80,98,5854,4.3,High,236,124/80 mmHg,Unhealthy
+114,100,12850,4.5,Moderate,780,123/92 mmHg,Unhealthy
+64,93,5415,6.5,High,669,131/95 mmHg,Stressed
+110,92,1612,4.1,High,676,111/95 mmHg,Unhealthy
+103,99,1018,8.8,Low,675,131/79 mmHg,Unhealthy
+107,93,14084,6.5,High,317,131/85 mmHg,Unhealthy
+64,98,10356,7.2,Moderate,260,123/88 mmHg,Sedentary
+73,100,4028,4.5,High,462,110/80 mmHg,Unhealthy
+118,92,14293,6.8,Low,551,117/87 mmHg,Unhealthy
+118,91,7485,8,Moderate,443,133/73 mmHg,Unhealthy
+70,93,1063,8.7,Low,667,117/94 mmHg,Sedentary
+107,98,12309,4.9,Low,564,120/83 mmHg,Unhealthy
+76,97,13761,7,Moderate,528,121/87 mmHg,Healthy
+72,91,4687,7.3,Moderate,797,119/92 mmHg,Unhealthy
+69,92,9027,8.9,High,249,137/73 mmHg,Unhealthy
+69,99,2855,8.4,Moderate,668,137/78 mmHg,Sedentary
+102,90,12486,6.3,High,690,117/83 mmHg,Unhealthy
+115,91,14381,4.6,Low,378,115/82 mmHg,Unhealthy
+83,93,2498,4.1,Moderate,716,127/77 mmHg,Unhealthy
+113,100,11635,6.9,Moderate,424,128/83 mmHg,Unhealthy
+78,100,3363,4.5,Moderate,236,119/94 mmHg,Unhealthy
+120,92,14875,5.3,Low,466,139/81 mmHg,Unhealthy
+87,90,3024,4.9,High,270,110/92 mmHg,Unhealthy
+109,100,14046,5,High,614,120/75 mmHg,Unhealthy
+84,100,6946,7.6,Moderate,366,121/77 mmHg,Healthy
+84,96,10198,7.5,Moderate,547,117/88 mmHg,Healthy
+103,95,6247,8.4,High,670,117/70 mmHg,Unhealthy
+105,97,1546,4.3,High,555,135/85 mmHg,Unhealthy
+109,99,3965,8.7,High,508,115/81 mmHg,Unhealthy
+113,92,6242,6.8,Low,556,133/92 mmHg,Unhealthy
+84,99,14251,6.5,Low,399,126/89 mmHg,Healthy
+64,99,6396,9,High,739,110/95 mmHg,Stressed
+120,95,6702,4,High,400,124/70 mmHg,Unhealthy
+65,98,9966,4.1,High,448,124/72 mmHg,Unhealthy
+70,97,4635,4.4,Moderate,620,140/83 mmHg,Unhealthy
+70,97,14120,8.5,Low,321,121/70 mmHg,Healthy
+67,94,8261,5,High,626,121/77 mmHg,Stressed
+119,94,6366,7.9,Moderate,694,130/90 mmHg,Unhealthy
+90,94,12757,8.3,Moderate,376,113/93 mmHg,Moderate
+70,96,10209,6.9,High,522,139/73 mmHg,Stressed
+114,96,3883,5.2,Moderate,310,129/73 mmHg,Unhealthy
+66,90,6954,8.5,Moderate,570,126/88 mmHg,Unhealthy
+106,93,9055,5.7,Low,497,113/85 mmHg,Unhealthy
+70,99,4211,8,Low,241,115/84 mmHg,Sedentary
+92,94,10628,6.8,Moderate,529,134/73 mmHg,Moderate
+80,90,12740,7.3,High,642,134/82 mmHg,Unhealthy
+96,97,2238,6.3,High,241,129/70 mmHg,Sedentary
+96,96,2812,8.7,Low,409,132/93 mmHg,Sedentary
+120,92,14267,7.7,High,366,123/79 mmHg,Unhealthy
+68,94,13640,4.1,Low,390,130/87 mmHg,Unhealthy
+106,96,8235,7.1,Low,632,138/71 mmHg,Unhealthy
+62,90,9849,8.7,Low,737,118/94 mmHg,Unhealthy
+99,91,6278,8.6,Low,324,118/81 mmHg,Unhealthy
+70,91,9587,7.2,Moderate,716,136/79 mmHg,Unhealthy
+93,99,5948,5.8,Moderate,225,112/80 mmHg,Sedentary
+117,95,12273,5.3,Low,213,140/92 mmHg,Unhealthy
+113,98,8421,7.9,Low,792,135/83 mmHg,Unhealthy
+115,95,13422,5.4,Moderate,593,124/74 mmHg,Unhealthy
+65,100,1228,5.8,Moderate,559,111/85 mmHg,Sedentary
+74,94,1151,6.8,Low,425,130/95 mmHg,Sedentary
+111,90,10858,5.8,Low,298,117/83 mmHg,Unhealthy
+74,96,13809,4.1,Low,285,129/85 mmHg,Unhealthy
+111,96,14274,8.1,Moderate,326,121/72 mmHg,Unhealthy
+100,98,8768,4.5,Low,215,125/81 mmHg,Unhealthy
+64,94,9817,4.9,High,359,132/78 mmHg,Unhealthy
+89,95,13862,8.9,Moderate,403,140/92 mmHg,Healthy
+96,93,1521,6.2,Low,454,115/93 mmHg,Sedentary
+118,100,8530,8.4,Low,597,140/87 mmHg,Unhealthy
+87,98,3830,4.9,High,329,139/74 mmHg,Unhealthy
+111,97,2130,6.2,Moderate,312,128/89 mmHg,Unhealthy
+73,91,6600,6.8,Moderate,721,126/79 mmHg,Unhealthy
+78,94,2960,8.8,High,646,129/94 mmHg,Sedentary
+115,93,13181,4.3,Low,508,119/94 mmHg,Unhealthy
+93,100,6477,5.9,Low,295,134/71 mmHg,Sedentary
+68,91,1751,4.6,High,270,128/87 mmHg,Unhealthy
+88,96,10126,6.1,High,331,135/76 mmHg,Stressed
+101,96,1643,6.4,Moderate,641,117/70 mmHg,Unhealthy
+89,91,13610,6.1,Moderate,229,125/76 mmHg,Unhealthy
+68,91,12247,6.5,Low,728,117/85 mmHg,Unhealthy
+120,95,1439,7.7,Moderate,420,112/79 mmHg,Unhealthy
+105,100,6097,5.6,High,715,110/74 mmHg,Unhealthy
+77,94,13818,7.9,Low,744,116/83 mmHg,Moderate
+73,93,11539,6.2,Low,749,138/92 mmHg,Moderate
+78,97,1040,4.2,Moderate,397,120/76 mmHg,Unhealthy
+62,92,11468,8.8,Low,551,137/79 mmHg,Unhealthy
+78,97,14376,6.7,Moderate,429,124/88 mmHg,Healthy
+72,90,6880,7.2,High,414,120/74 mmHg,Unhealthy
+96,92,9438,7,Low,776,116/74 mmHg,Unhealthy
+118,98,6556,5.8,Low,750,131/91 mmHg,Unhealthy
+98,90,11732,6,High,413,138/94 mmHg,Unhealthy
+88,98,8214,7.4,Low,698,120/92 mmHg,Healthy
+62,99,1124,5.2,Low,443,136/71 mmHg,Sedentary
+84,91,14675,4.3,Moderate,416,135/93 mmHg,Unhealthy
+88,97,12750,6.3,High,248,114/79 mmHg,Sedentary
+102,96,9792,6.3,High,583,122/93 mmHg,Unhealthy
+94,95,1950,5.7,Moderate,616,118/84 mmHg,Sedentary
+91,95,13881,4.9,Low,670,116/92 mmHg,Unhealthy
+115,99,10603,4.6,Moderate,338,121/91 mmHg,Unhealthy
+77,98,1493,5.9,Low,327,125/80 mmHg,Sedentary
+82,90,7370,4.1,Moderate,237,114/78 mmHg,Unhealthy
+90,94,12511,6.4,Low,480,113/77 mmHg,Moderate
+93,96,11358,7.6,Moderate,651,115/71 mmHg,Moderate
+83,96,10427,7.2,High,340,125/93 mmHg,Stressed
+113,92,11606,6,Moderate,297,137/92 mmHg,Unhealthy
+86,97,6851,4.3,High,542,133/73 mmHg,Unhealthy
+109,95,5707,8.2,Moderate,551,111/71 mmHg,Unhealthy
+85,94,13300,5.5,Low,577,123/79 mmHg,Moderate
+98,92,14505,4.8,Moderate,652,132/89 mmHg,Unhealthy
+92,99,8942,8.8,Low,307,130/93 mmHg,Moderate
+109,96,13914,5,Moderate,760,115/88 mmHg,Unhealthy
+104,97,13303,9,High,354,110/84 mmHg,Unhealthy
+120,99,2772,4.7,Low,513,127/88 mmHg,Unhealthy
+73,91,14934,4.5,Low,336,125/80 mmHg,Unhealthy
+106,99,8498,8.8,Low,709,140/84 mmHg,Unhealthy
+109,97,10063,7.8,High,275,126/95 mmHg,Unhealthy
+113,92,13738,8,High,376,113/72 mmHg,Unhealthy
+113,97,9196,6.4,Low,499,138/85 mmHg,Unhealthy
+115,96,9483,7.2,High,661,113/82 mmHg,Unhealthy
+67,98,8352,8.5,Low,419,123/83 mmHg,Moderate
+66,95,7247,8.7,Low,772,117/83 mmHg,Moderate
+68,100,12713,6.9,High,349,137/85 mmHg,Stressed
+94,97,10328,8.1,Low,487,131/82 mmHg,Moderate
+82,93,5093,7.3,Low,606,132/88 mmHg,Moderate
+98,99,1952,7.3,Low,258,117/87 mmHg,Sedentary
+86,97,1663,7.7,Low,504,117/90 mmHg,Sedentary
+105,90,7983,5.7,Low,444,137/84 mmHg,Unhealthy
+116,97,13880,8.5,High,614,115/80 mmHg,Unhealthy
+115,99,10799,4.6,Moderate,387,134/94 mmHg,Unhealthy
+94,97,1680,7.6,Moderate,691,118/73 mmHg,Sedentary
+115,92,10629,6.2,Moderate,318,124/93 mmHg,Unhealthy
+60,97,5720,7.6,Moderate,259,127/76 mmHg,Sedentary
+117,99,2808,8.2,Low,213,135/82 mmHg,Unhealthy
+91,90,12856,5.1,Low,699,112/85 mmHg,Unhealthy
+69,93,2443,5.5,Low,309,117/85 mmHg,Sedentary
+90,94,4133,8.8,Low,669,136/92 mmHg,Moderate
+92,98,7706,7.8,Moderate,498,140/93 mmHg,Moderate
+114,99,11350,4,Low,794,126/88 mmHg,Unhealthy
+93,95,10100,6.6,Moderate,214,126/81 mmHg,Sedentary
+101,98,10006,8.7,Low,552,113/94 mmHg,Unhealthy
+80,99,4527,8.5,Moderate,589,137/79 mmHg,Healthy
+68,96,8197,4,High,564,130/74 mmHg,Unhealthy
+119,97,1253,4.8,High,256,113/93 mmHg,Unhealthy
+102,96,9959,6.6,Moderate,255,119/75 mmHg,Unhealthy
+78,96,8620,8.9,High,538,123/89 mmHg,Stressed
+84,90,12304,4.5,Low,254,126/87 mmHg,Unhealthy
+110,96,9262,6,Low,440,112/86 mmHg,Unhealthy
+102,99,11270,5.4,High,223,131/79 mmHg,Unhealthy
+113,99,14759,7.7,High,223,110/81 mmHg,Unhealthy
+118,98,5164,6.8,Moderate,489,135/79 mmHg,Unhealthy
+108,100,1626,5.2,Low,536,135/87 mmHg,Unhealthy
+65,92,10148,4.8,High,625,135/80 mmHg,Unhealthy
+76,100,3546,6.2,High,496,129/91 mmHg,Stressed
+90,91,12008,4.2,High,668,114/80 mmHg,Unhealthy
+80,98,10425,5.9,Low,335,134/72 mmHg,Moderate
+87,94,3342,5.6,Low,714,120/93 mmHg,Moderate
+107,91,8626,4.2,High,348,124/77 mmHg,Unhealthy
+67,95,11633,4.4,High,316,114/77 mmHg,Unhealthy
+102,95,2128,6.9,Low,519,122/90 mmHg,Unhealthy
+69,98,5936,5.3,Low,698,119/82 mmHg,Moderate
+101,90,12144,4.6,Low,547,132/92 mmHg,Unhealthy
+69,95,11628,8.1,Moderate,771,112/91 mmHg,Moderate
+86,90,14664,7.9,High,406,127/81 mmHg,Unhealthy
+60,97,2733,7.5,High,777,130/86 mmHg,Sedentary
+63,97,3519,8.5,Moderate,433,121/91 mmHg,Moderate
+85,91,9886,5,Moderate,255,114/92 mmHg,Unhealthy
+78,97,11753,8.4,Moderate,377,132/89 mmHg,Healthy
+97,92,7616,7.9,High,481,127/77 mmHg,Unhealthy
+103,98,2265,8.6,Moderate,255,116/70 mmHg,Unhealthy
+100,93,2493,7.1,High,445,117/93 mmHg,Sedentary
+119,91,14260,4.3,Low,284,117/74 mmHg,Unhealthy
+113,97,10885,4.8,Low,447,126/92 mmHg,Unhealthy
+94,96,5460,4.9,Low,696,138/89 mmHg,Unhealthy
+120,93,12115,8.2,Low,770,125/90 mmHg,Unhealthy
+85,94,8922,8.6,High,696,133/72 mmHg,Stressed
+68,93,11328,5.2,Low,392,134/70 mmHg,Moderate
+65,91,11306,5.9,Low,425,130/79 mmHg,Unhealthy
+76,90,6063,7,Low,733,112/86 mmHg,Unhealthy
+83,90,7498,6.7,Low,717,118/86 mmHg,Unhealthy
+105,96,6735,5.7,Moderate,491,136/70 mmHg,Unhealthy
+81,98,1550,5,High,408,110/90 mmHg,Sedentary
+103,98,3860,6.5,High,220,136/82 mmHg,Unhealthy
+111,92,5794,6.8,High,313,119/71 mmHg,Unhealthy
+73,98,13277,8.9,Moderate,565,123/91 mmHg,Healthy
+94,90,5923,8.5,Moderate,348,130/87 mmHg,Unhealthy
+72,96,3210,6.2,Low,362,140/83 mmHg,Healthy
+92,94,2979,5.5,Low,218,136/77 mmHg,Sedentary
+108,97,2760,4.2,Low,329,128/74 mmHg,Unhealthy
+96,99,7962,8.6,Low,249,117/91 mmHg,Sedentary
+63,98,8451,5.3,Moderate,765,125/79 mmHg,Moderate
+98,99,4622,8.4,Moderate,672,121/95 mmHg,Moderate
+66,100,4466,6.3,High,463,117/72 mmHg,Stressed
+120,92,4786,6.2,Moderate,420,129/77 mmHg,Unhealthy
+120,96,11223,5.7,High,637,126/93 mmHg,Unhealthy
+88,93,10413,7.8,Low,382,132/74 mmHg,Moderate
+80,99,14447,4.9,High,408,133/87 mmHg,Unhealthy
+70,98,12329,8.6,Low,750,127/86 mmHg,Healthy
+68,93,2038,4.7,Low,373,114/90 mmHg,Unhealthy
+118,96,3741,7.3,Low,798,137/92 mmHg,Unhealthy
+89,93,9038,5.1,Moderate,226,118/78 mmHg,Sedentary
+115,96,14015,4.5,Moderate,443,127/84 mmHg,Unhealthy
+102,98,1425,7.4,Moderate,218,137/94 mmHg,Unhealthy
+103,96,1062,4.2,High,668,118/75 mmHg,Unhealthy
+90,97,13641,8.2,Low,763,123/95 mmHg,Healthy
+83,99,8389,5.1,Low,366,129/80 mmHg,Moderate
+99,98,3378,7.4,Moderate,377,119/88 mmHg,Moderate
+82,100,3375,4.6,Low,393,116/79 mmHg,Unhealthy
+111,91,11719,4.9,Low,362,136/83 mmHg,Unhealthy
+72,96,10681,8.8,Moderate,622,122/86 mmHg,Healthy
+89,99,13243,5.2,Low,658,116/95 mmHg,Moderate
+77,94,10300,5,High,595,114/83 mmHg,Stressed
+88,96,11392,7.9,Moderate,518,137/74 mmHg,Healthy
+72,91,13737,6.7,Moderate,257,127/85 mmHg,Unhealthy
+99,93,12552,8.3,High,233,123/74 mmHg,Sedentary
+61,97,12742,8.4,Low,710,133/80 mmHg,Moderate
+78,99,6305,8.9,Low,366,133/83 mmHg,Healthy
+68,94,13680,4.2,Moderate,731,125/84 mmHg,Unhealthy
+118,98,14203,6,Moderate,444,126/90 mmHg,Unhealthy
+99,91,7178,5.9,High,470,133/85 mmHg,Unhealthy
+88,96,7291,5.3,Low,628,112/92 mmHg,Moderate
+109,91,7316,6,Moderate,577,128/72 mmHg,Unhealthy
+86,96,9859,8.4,Moderate,716,128/79 mmHg,Healthy
+66,97,12753,8.8,High,593,140/90 mmHg,Stressed
+77,93,2006,6.8,Low,297,132/74 mmHg,Sedentary
+117,90,13183,4.7,High,656,111/71 mmHg,Unhealthy
+101,98,11266,5.2,Moderate,418,117/80 mmHg,Unhealthy
+97,98,6885,6.4,High,657,137/87 mmHg,Stressed
+107,98,11298,7.1,Moderate,641,137/85 mmHg,Unhealthy
+63,96,3882,7,High,244,128/75 mmHg,Sedentary
+95,99,11938,4.4,Moderate,727,133/71 mmHg,Unhealthy
+86,91,1467,6.4,Low,511,138/83 mmHg,Unhealthy
+74,91,7784,7.4,Moderate,693,136/90 mmHg,Unhealthy
+98,99,7606,8.3,High,353,110/70 mmHg,Stressed
+89,95,4592,5.6,Low,519,131/86 mmHg,Moderate
+69,91,13487,7.9,High,272,111/82 mmHg,Unhealthy
+97,91,12742,6.3,Low,589,116/76 mmHg,Unhealthy
+73,90,5805,6.1,Low,574,122/86 mmHg,Unhealthy
+74,98,3146,5.5,Low,261,132/70 mmHg,Sedentary
+98,99,13117,5.5,Moderate,260,139/77 mmHg,Sedentary
+81,91,9823,7.7,High,301,111/71 mmHg,Unhealthy
+103,96,2287,6,Low,736,117/83 mmHg,Unhealthy
+97,99,3222,7.7,Moderate,455,117/89 mmHg,Moderate
+91,95,1374,5.4,High,603,137/89 mmHg,Sedentary
+119,100,3064,8.7,High,642,127/95 mmHg,Unhealthy
+90,90,10871,6,Moderate,571,122/73 mmHg,Unhealthy
+63,100,2237,6,High,237,118/94 mmHg,Sedentary
+104,94,8239,5.5,High,694,114/83 mmHg,Unhealthy
+77,90,11276,5.9,Moderate,529,125/79 mmHg,Unhealthy
+79,96,8217,5.1,High,753,124/90 mmHg,Stressed
+68,99,7519,6,Moderate,760,114/93 mmHg,Moderate
+74,93,8213,8.5,Low,661,127/95 mmHg,Moderate
+104,95,10316,6.4,High,793,127/94 mmHg,Unhealthy
+83,98,4862,5.4,Low,667,137/77 mmHg,Moderate
+78,99,9378,4.7,Moderate,646,140/78 mmHg,Unhealthy
+78,96,13253,7.8,Low,301,130/88 mmHg,Healthy
+112,93,8833,8.8,Low,546,134/82 mmHg,Unhealthy
+71,92,3721,4.1,Moderate,716,110/73 mmHg,Unhealthy
+60,99,1120,8.9,Low,226,140/91 mmHg,Sedentary
+109,96,9993,7.1,Moderate,731,130/84 mmHg,Unhealthy
+85,90,1502,8.8,Moderate,512,117/93 mmHg,Unhealthy
+67,91,2066,5,High,258,124/90 mmHg,Unhealthy
+100,91,2628,6.3,Low,456,130/74 mmHg,Unhealthy
+117,95,4568,4.4,Low,631,122/89 mmHg,Unhealthy
+115,100,13222,8.1,Low,416,129/79 mmHg,Unhealthy
+82,93,13807,5.1,Low,308,119/82 mmHg,Moderate
+105,91,14522,6.3,Moderate,306,121/93 mmHg,Unhealthy
+95,92,10951,8.5,Low,396,111/74 mmHg,Unhealthy
+88,92,9172,5.5,Moderate,677,131/87 mmHg,Unhealthy
+62,91,10039,5.2,Low,755,116/72 mmHg,Unhealthy
+68,94,5471,6.1,Low,606,135/80 mmHg,Moderate
+82,95,5017,5.4,Moderate,505,122/74 mmHg,Moderate
+81,90,8589,4.9,High,580,111/70 mmHg,Unhealthy
+75,96,6740,6,Moderate,381,139/83 mmHg,Healthy
+110,91,6945,7.6,Moderate,695,112/77 mmHg,Unhealthy
+79,90,9353,8,Low,393,131/82 mmHg,Unhealthy
+112,93,5342,7.3,Moderate,735,117/91 mmHg,Unhealthy
+77,97,4408,7.7,Moderate,547,112/95 mmHg,Healthy
+99,97,14446,6.9,High,701,123/94 mmHg,Stressed
+105,95,6231,8.4,Low,767,111/87 mmHg,Unhealthy
+86,97,7562,8.5,Moderate,645,139/83 mmHg,Healthy
+91,99,8168,8.7,Low,712,131/83 mmHg,Moderate
+116,98,13487,7.2,Low,620,137/82 mmHg,Unhealthy
+107,91,4229,8.6,High,489,136/90 mmHg,Unhealthy
+75,98,5525,7.3,Moderate,794,127/81 mmHg,Healthy
+63,100,10508,5.9,Moderate,698,128/78 mmHg,Moderate
+77,100,7438,6.4,Moderate,649,115/76 mmHg,Healthy
+85,91,14041,5.3,Moderate,413,132/80 mmHg,Unhealthy
+76,93,2708,8.2,Moderate,373,122/71 mmHg,Sedentary
+103,98,12894,5.3,High,322,110/81 mmHg,Unhealthy
+107,93,8666,4.6,Low,691,134/89 mmHg,Unhealthy
+97,94,2503,7.5,High,796,122/81 mmHg,Sedentary
+90,100,6145,8.6,High,726,117/87 mmHg,Stressed
+117,100,2630,5.6,Moderate,567,115/95 mmHg,Unhealthy
+98,93,4340,8.9,High,543,127/72 mmHg,Stressed
+96,96,11252,7.6,High,295,129/87 mmHg,Sedentary
+97,96,4074,5.2,High,451,118/94 mmHg,Stressed
+78,90,7436,4.2,Low,463,129/89 mmHg,Unhealthy
+81,96,13226,8.3,Moderate,745,137/90 mmHg,Healthy
+98,97,14915,4.3,High,785,122/93 mmHg,Unhealthy
+65,100,1533,6.4,High,715,128/70 mmHg,Sedentary
+77,94,5993,6.6,Moderate,511,134/78 mmHg,Moderate
+81,91,11630,6.2,High,429,126/87 mmHg,Unhealthy
+88,93,4546,8.4,High,286,117/82 mmHg,Sedentary
+65,92,12680,8.7,Low,657,120/87 mmHg,Unhealthy
+117,93,14888,5.8,High,754,130/93 mmHg,Unhealthy
+100,97,14398,5.5,Low,781,129/84 mmHg,Moderate
+101,90,14651,7.1,High,653,135/88 mmHg,Unhealthy
+109,95,7386,4.8,Moderate,493,114/72 mmHg,Unhealthy
+116,91,1596,4.6,Low,273,117/83 mmHg,Unhealthy
+72,91,4372,7.4,Moderate,381,140/78 mmHg,Unhealthy
+63,94,13793,4.5,Moderate,709,139/73 mmHg,Unhealthy
+84,90,12086,4.6,Moderate,537,125/77 mmHg,Unhealthy
+90,100,14263,6.5,Moderate,505,114/84 mmHg,Healthy
+113,95,13484,8.7,Low,328,124/89 mmHg,Unhealthy
+112,91,11427,8.9,Moderate,751,117/71 mmHg,Unhealthy
+69,96,11248,5.4,High,595,134/77 mmHg,Stressed
+86,95,1237,9,High,395,117/82 mmHg,Sedentary
+87,98,4499,8.8,Low,331,137/72 mmHg,Healthy
+92,96,2076,7.3,Low,229,116/78 mmHg,Sedentary
+113,97,9849,7.3,High,531,133/72 mmHg,Unhealthy
+90,94,14129,7.9,High,665,122/70 mmHg,Stressed
+85,98,11371,4.9,Moderate,352,118/87 mmHg,Unhealthy
+111,97,10806,7.2,Moderate,401,116/94 mmHg,Unhealthy
+62,100,6111,7.4,Low,736,133/87 mmHg,Moderate
+114,92,8891,8.8,High,532,134/89 mmHg,Unhealthy
+108,93,9059,6.4,Moderate,599,132/84 mmHg,Unhealthy
+91,92,10774,6.8,High,464,134/73 mmHg,Unhealthy
+76,100,10744,7.6,Moderate,244,135/74 mmHg,Sedentary
+117,96,4322,4.7,High,550,115/95 mmHg,Unhealthy
+79,94,9901,7.1,High,234,136/77 mmHg,Sedentary
+80,94,11922,7.4,Low,677,129/82 mmHg,Moderate
+99,94,14577,6.8,Low,403,126/89 mmHg,Moderate
+75,100,13582,5.7,Low,574,128/72 mmHg,Moderate
+62,98,6225,8.4,Low,240,134/88 mmHg,Sedentary
+73,97,8265,8.8,Low,723,125/78 mmHg,Healthy
+112,96,6399,6.3,High,695,118/91 mmHg,Unhealthy
+101,95,2528,8.1,Low,402,127/75 mmHg,Unhealthy
+89,92,1135,6.9,Low,624,112/94 mmHg,Unhealthy
+63,98,9010,8.9,Low,337,136/85 mmHg,Moderate
+89,92,2104,4.2,Low,478,128/93 mmHg,Unhealthy
+75,93,14649,4.9,Low,462,125/91 mmHg,Unhealthy
+94,91,1993,7.4,Low,323,129/88 mmHg,Unhealthy
+87,95,11333,7.9,High,476,115/86 mmHg,Stressed
+78,93,13353,7.6,Moderate,718,139/85 mmHg,Moderate
+99,94,1567,5.6,High,388,138/81 mmHg,Sedentary
+66,92,6566,7.6,Low,463,140/87 mmHg,Unhealthy
+95,94,11536,6,Low,306,133/72 mmHg,Moderate
+103,94,5652,9,Moderate,300,111/87 mmHg,Unhealthy
+72,99,9375,7.5,Moderate,250,111/84 mmHg,Sedentary
+108,100,7036,4.3,High,395,110/86 mmHg,Unhealthy
+95,100,7316,6.9,Low,681,136/92 mmHg,Moderate
+90,91,4549,6.6,Low,340,127/89 mmHg,Unhealthy
+111,92,13740,7.1,Moderate,358,137/86 mmHg,Unhealthy
+113,98,14930,7.2,High,206,123/76 mmHg,Unhealthy
+110,100,3027,5.8,High,760,124/84 mmHg,Unhealthy
+108,98,4969,4.6,High,557,113/94 mmHg,Unhealthy
+112,98,8586,7.8,High,330,127/89 mmHg,Unhealthy
+80,97,9982,5.8,Moderate,781,140/74 mmHg,Moderate
+86,90,14719,7.5,Moderate,769,120/95 mmHg,Unhealthy
+119,91,3016,6,Low,284,113/92 mmHg,Unhealthy
+60,90,3795,5.2,Low,280,135/83 mmHg,Unhealthy
+65,93,3591,8.3,Moderate,433,130/87 mmHg,Moderate
+113,96,6342,6.9,High,326,126/82 mmHg,Unhealthy
+117,90,1812,5.1,Low,640,139/74 mmHg,Unhealthy
+73,95,4657,5.6,Moderate,304,117/95 mmHg,Moderate
+60,100,3930,8.2,High,265,139/86 mmHg,Sedentary
+65,92,3080,8.1,Low,428,121/77 mmHg,Unhealthy
+96,93,13507,8.8,Low,249,125/92 mmHg,Sedentary
+77,91,12196,4.5,High,383,127/71 mmHg,Unhealthy
+67,98,12237,5.7,High,543,114/81 mmHg,Stressed
+114,94,4174,7.5,Low,501,127/86 mmHg,Unhealthy
+78,99,13106,7.2,High,567,127/75 mmHg,Stressed
+85,92,12672,8.8,High,651,133/81 mmHg,Unhealthy
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

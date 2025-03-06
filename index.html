@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HEALTH DASHBOARD</title>
+    
+    <!-- Font Awesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        .sidebar {
+            height: 100%;
+            width: 250px;
+            position: fixed;
+            top: 0;
+            left: 0;
+            background-color: #111;
+            padding-top: 20px;
+            transition: 0.3s;
+            z-index: 1000;
+        }
+        .sidebar a {
+            padding: 10px 15px;
+            text-decoration: none;
+            font-size: 18px;
+            color: white;
+            display: block;
+            transition: 0.2s;
+        }
+        .sidebar a:hover {
+            background-color: #575757;
+        }
+        .menu-btn {
+            font-size: 24px;
+            cursor: pointer;
+            position: absolute;
+            top: 15px;
+            left: 15px;
+            color: #000;
+            z-index: 1100;
+        }
+        .main-content {
+            margin-left: 250px;
+            padding: 16px;
+            transition: margin-left 0.3s;
+        }
+    </style>
+</head>
+<body>
+    <div class="menu-btn" onclick="toggleSidebar()">
+        <i class="fa-solid fa-bars"></i>
+    </div>
+    
+    <div id="sidebar" class="sidebar">
+        <a href="#" onclick="toggleSidebar()">Close &#10006;</a>
+        <a href="#">Home</a>
+        <a href="#">Recommendation</a>
+        <a href="#">Dashboard</a>
+        <a href="#">Help</a>
+        <a href="#">Task</a>
+    </div>
+    
+    <div class="main-content" id="mainContent">
+        <header class="header">
+            <h1 class="title">HEALTH DASHBOARD</h1>
+        </header>
+        
+        <!-- Your existing code -->
+        <main id="mainContent" class="container">
+            <div class="card">
+                <i class="fa-solid fa-heart-pulse"></i>
+                <h3>Heart Rate</h3>
+                <p><strong id="heartRate">72 BPM</strong></p>
+            </div>
+            <div class="card">
+                <i class="fa-solid fa-lungs"></i>
+                <h3>SpO2</h3>
+                <p><strong id="spo2">98%</strong></p>
+            </div>
+            <div class="card">
+                <i class="fa-solid fa-person-walking"></i>
+                <h3>Steps</h3>
+                <p><strong id="steps">5234</strong></p>
+            </div>
+            <div class="card">
+                <i class="fa-solid fa-bed"></i>
+                <h3>Sleep</h3>
+                <p><strong id="sleep">7 hrs</strong></p>
+            </div>
+            <div class="card">
+                <i class="fa-solid fa-brain"></i>
+                <h3>Stress Level</h3>
+                <p><strong id="stress">7.5</strong></p>
+            </div>
+            <div class="card">
+                <i class="fa-solid fa-fire"></i>
+                <h3>Calories Burnt</h3>
+                <p><strong id="calories">250 kcal</strong></p>
+            </div>
+            <div class="card">
+                <i class="fa-solid fa-droplet"></i>
+                <h3>Blood Pressure</h3>
+                <p><strong id="bloodPressure">120/80</strong></p>
+            </div>
+        </main>
+    </div>
+    
+    <script>
+        function toggleSidebar() {
+            var sidebar = document.getElementById("sidebar");
+            if (sidebar.style.left === "0px") {
+                sidebar.style.left = "-250px";
+            } else {
+                sidebar.style.left = "0px";
+            }
+        }
+    </script>
+</body>
+</html>
