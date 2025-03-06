@@ -1,0 +1,23 @@
+How to Open and Operate a .ipynb (Jupyter Notebook) File (Step-by-Step)
+
+Install VS Code (if not installed).
+Install Jupyter Extension
+Open VS Code, go to Extensions (Ctrl+Shift+X), and search for Jupyter → Install it.
+Open the .ipynb File in VS Code
+Drag and drop your .ipynb file into VS Code or open it via File → Open File.
+Run the cells using the "Run" button or Shift + Enter.
+
+
+Open in a Web Browser
+
+Save the Files:
+Save your HTML file as index.html
+Save your CSS file as style.css (if using an external stylesheet).
+
+Link CSS to HTML:
+Inside the <head> section of your HTML file, add:
+<link rel="stylesheet" href="style.css">
+
+Double Click to Open:
+Locate the HTML file in your folder.
+Double-click it – It will open in your default web browser.
